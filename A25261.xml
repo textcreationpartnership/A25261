@@ -1,0 +1,903 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Farther search after claret, or, A second visitation of the vintners a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25261</idno>
+            <idno type="STC">Wing A2977</idno>
+            <idno type="STC">ESTC R30698</idno>
+            <idno type="EEBO-CITATION">11403053</idno>
+            <idno type="OCLC">ocm 11403053</idno>
+            <idno type="VID">47721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1453:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Farther search after claret, or, A second visitation of the vintners a poem.</title>
+               </titleStmt>
+               <extent>[2], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Hawkins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine and wine making --  France --  Bordelais --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47721:1" rendition="simple:additions"/>
+            <p>A Farther Search AFTER CLARET; OR, A <hi>Second Viſitation</hi> OF THE VINTNERS. A POEM.</p>
+            <q>
+               <l>Nature has made Man's Breaſt no Windores,</l>
+               <l>To Publiſh what he does within Doors.</l>
+               <bibl>Hudibras, <hi>Cant.</hi> 2<hi>d</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Hawkins,</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47721:2"/>
+            <pb facs="tcp:47721:2"/>
+            <head>THE Epiſtle Dedicatory.</head>
+            <l>TO all <hi>Maſter Vintners</hi> reſiding in <hi>London,</hi>
+            </l>
+            <l>And <hi>Weſtminſter,</hi> both to the <hi>Rich</hi> and the <hi>Undone.</hi>
+            </l>
+            <l>VVho when <hi>Wines</hi> are grown ſick, and have <hi>Workings</hi> amain,</l>
+            <l>Can with <hi>Caudle of Eggs</hi> to Life fetch 'em again;</l>
+            <l>And when with a <hi>Flying Lee</hi> troubled, with <hi>Allum,</hi>
+            </l>
+            <l>
+               <hi>Bay-Salt,</hi> and <hi>White-Starch,</hi> to their Senſe can recall 'em;</l>
+            <l>VVho when <hi>Clarets</hi> are <hi>Ropy,</hi> and apt to be Muddy,</l>
+            <l>Can with <hi>Spirit of Wine</hi> make 'em leave their brown Study;</l>
+            <l>VVho when <hi>French Wines</hi> are <hi>Eager</hi> and juſt about <hi>Pricking,</hi>
+            </l>
+            <l>VVith <hi>Allum</hi> and <hi>Flanders-Tile</hi> make 'em leave <hi>Kicking.</hi>
+            </l>
+            <l>VVho with <hi>Racking, Infuſing,</hi> and <hi>Clarification,</hi>
+            </l>
+            <l>Play ſome delicate Tricks with the <hi>Wine</hi> in this Nation.</l>
+            <l>To all <hi>Female Bar-keepers,</hi> Young, Airy and Pretty,</l>
+            <l>VVhether <hi>Widows, Wives, Maids,</hi> Pert, Brisk Merry and VVitty,</l>
+            <l>VVho can <hi>Banter</hi> young <hi>Fops,</hi> of their Mony and Reaſon,</l>
+            <l>VVith a <hi>Wit,</hi> which like <hi>Beauty</hi> is ne're out of Seaſon.</l>
+            <l>To thoſe Riddles of Men, whom we <hi>VVine-Coopers</hi> call,</l>
+            <l>Neither <hi>Merchants</hi> nor <hi>Vintners,</hi> and yet they are all;</l>
+            <pb facs="tcp:47721:3"/>
+            <l>Who with <hi>Peggs, Peircers, Addice,</hi> and large pair of <hi>Bellows</hi>
+            </l>
+            <l>In their Vaults would be thought to be very <hi>good Fellows.</hi>
+            </l>
+            <l>To all the choice Lads who are <hi>Cellar-men</hi> known,</l>
+            <l>Who viſit the <hi>Hogſheads</hi> when Company<hi>'s</hi> gone.</l>
+            <l>To all <hi>Dealers</hi> in <hi>Wine,</hi> of what Figure or Faſhion,</l>
+            <l>Is Humbly Preſented This new <hi>Viſitation.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:47721:3"/>
+            <head>A Farther Search AFTER CLARET, &amp;c.</head>
+            <lg>
+               <l>HOw hard of pleas'd Cuſtom we take our farwel!</l>
+               <l>For next morning, no ſooner I got from my <hi>Cell,</hi>
+               </l>
+               <l>But a Friend to the <hi>Bottle</hi> who never knew ſorrow,</l>
+               <l>With a look undiſguis'd, kindly bid me good-morrow,</l>
+               <l>And told me, that ſince we ſo luckily met,</l>
+               <l>Would I lend him my company down to <hi>Thames-ſtreet,</hi>
+               </l>
+               <pb n="2" facs="tcp:47721:4"/>
+               <l>He'd at <hi>Billingſgate</hi> give me a <hi>Glaſs</hi> of ſuch <hi>VVine,</hi>
+               </l>
+               <l>As ſhould make even <hi>Envy</hi> for get to repine:</l>
+               <l>But tho I under ſtrong prejudice lay,</l>
+               <l>Yet was willing to make one more daring eſſay.</l>
+               <l>Tho two days diſappointed, accepted his motion,</l>
+               <l>So yeilding my Perſon up to his Devotion,</l>
+               <l>Went with him.— As <hi>Girls</hi> who the Sport once have ſeen,</l>
+               <l>Think ev'ry day ten, till they'r at it agen.</l>
+            </lg>
+            <lg n="1">
+               <head>I.</head>
+               <l>His Buſineſs diſpatch'd, we firſt went to the <hi>Vine,</hi>
+               </l>
+               <l>To ſee from thoſe Grapes we could preſs <hi>Claret VVine,</hi>
+               </l>
+               <l>But the Maſter it ſeems was an arch pickl'd Youth,</l>
+               <l>And aſſur'd us his <hi>Vine</hi> was of <hi>Portugal</hi> growth,</l>
+               <l>Withal that the <hi>Spies</hi> were ſo Termegant grown,</l>
+               <l>He hardly could ſay that his Soul was own.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>At the <hi>Dog</hi> when we thought to have taſted a Pint,</l>
+               <l>VVe perceiv'd that its Owners were fled to the <hi>Mint.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>VVe'd have call'd at the <hi>Swan,</hi> but the Pious good Maſter,</l>
+               <l>VVho was half Mad with Rage by a fooliſh Diſaſter,</l>
+               <l>For receiving a Meſſage from <hi>Fumblers-Hall,</hi>
+               </l>
+               <l>Did in Paſſion the Fiſhwomen loudly out-baul.</l>
+            </lg>
+            <pb n="3" facs="tcp:47721:4"/>
+            <lg n="4">
+               <head>IV.</head>
+               <l>VVhen at the <hi>Kings-head</hi> we obſerv'd loaded Spits,</l>
+               <l>Full of <hi>Beef, Veal</hi> and <hi>Mutton,</hi> and ſuch kind of Bits;</l>
+               <l>VVe concluded good <hi>Claret</hi> to find not a drop,</l>
+               <l>In a <hi>Tavern,</hi> when alter'd into a <hi>Cooks-ſhop.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>When we entred the <hi>Gun,</hi> and arriv'd at the Bar,</l>
+               <l>More confuſion of Tongues did old <hi>Babel</hi> ne're hear;</l>
+               <l>Some <hi>Singing,</hi> ſome <hi>Dancing,</hi> ſome <hi>Swearing,</hi> ſome <hi>Roaring,</hi>
+               </l>
+               <l>Some <hi>Ranting,</hi> ſome <hi>Drinking,</hi> ſome <hi>Gaming,</hi> ſome <hi>VVhoring,</hi>
+               </l>
+               <l>Such a Medly of Noiſes, like ſtrings out of Tune,</l>
+               <l>Made both of us quickly afraid of the <hi>Gun.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Half ſtun'd with the noiſe, and oppreſt with dull thinking,</l>
+               <l>Came to Mannerly Tavern kept by brisk Mr. <hi>J—kin,</hi>
+               </l>
+               <l>As active a Lad as e're lay by the ſide</l>
+               <l>Of a Woman, if this be not true, Ask his Bride.</l>
+               <l>When we ſaw <hi>pretty Females</hi> come up to the Bar,</l>
+               <l>With <hi>pray Madam, is</hi> Mr. <hi>ſuch a one here?</hi>
+               </l>
+               <l>
+                  <hi>Has any one been here to ask Number Four?</hi>
+               </l>
+               <l>VVe thought it moſt ſafe for to go out of Door,</l>
+               <l>For the ſight of theſe <hi>Petticotes</hi> ſpoyl'd our deſign,</l>
+               <l>VVe then having more fancy for <hi>VVomen</hi> than <hi>VVine,</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:47721:5"/>
+            <lg n="7">
+               <head>VII.</head>
+               <l>At the <hi>Fleece</hi> when for <hi>Claret</hi> we askt the young Spark,</l>
+               <l>He aſſur'd us 't had long been at <hi>Low-water-Mark.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>At the <hi>Mermaid</hi> we found <hi>Six</hi> fat <hi>Oyſter-wives</hi> ſitting,</l>
+               <l>Who over cool <hi>Quarterns</hi> were ſmoaking and ſpitting,</l>
+               <l>And loudly diſcourſing the price of <hi>Old-Ling,</hi>
+               </l>
+               <l>And ſo nauſeouſly talk'd of another <hi>old Thing,</hi>
+               </l>
+               <l>That our Stomachs quite turn'd, valued Wine not a farthing,</l>
+               <l>And ſo bid good morrow to Mr. <hi>Churchwarden.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>To the Sign of the <hi>Golden round</hi> O, when we came,</l>
+               <l>And for <hi>Claret</hi> inquir'd of a ſtately fine Dame;</l>
+               <l>We found her ſo buſie in dreſſing of Fiſh,</l>
+               <l>That her very looks ſeem'd to anſwer us, <hi>Piſh;</hi>
+               </l>
+               <l>But to her proud humour not willing to ſtoop,</l>
+               <l>Like <hi>Juglers,</hi> we cleaverly jumpt through the <hi>Hoop.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>When for <hi>Claret</hi> at <hi>Cl—fftons</hi> we askt at the <hi>Swan,</hi>
+               </l>
+               <l>We were ſtar'd at as if we came juſt from <hi>Japan.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>At the <hi>Monument</hi> when we for <hi>VVine</hi> made pretence,</l>
+               <l>VVe found it was fallen in the literal Senſe.</l>
+            </lg>
+            <pb n="5" facs="tcp:47721:5"/>
+            <lg n="12">
+               <head>XII.</head>
+               <l>The Vintner who kept the bright <hi>Sun</hi> but of late,</l>
+               <l>Had for <hi>Phaeton</hi>'s Fancy, met <hi>Phaeton</hi>'s Fate.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>From the <hi>Bear</hi> at <hi>Bridg-foot,</hi> to the <hi>Bear</hi> on the <hi>Hill,</hi>
+               </l>
+               <l>Captain <hi>S—th</hi> is arriv'd, and is Captain <hi>S—th</hi> ſtill;</l>
+               <l>When from <hi>Burrough</hi> he came to reſide in the City,</l>
+               <l>Thus made his loud Brags, and I'faith very witty:</l>
+               <l>
+                  <hi>"The Bear ſhall bite the Bull, and make the Half-moon-cry,</hi>
+               </l>
+               <l>
+                  <hi>"Sink the Ship, and Drink the three Tuns dry.</hi>
+               </l>
+               <l>But when of his <hi>Claret</hi> an eſſay we had made,</l>
+               <l>Like his boaſtings, we found they were <hi>Rhotom antade.</hi>
+               </l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>How ſplendid ſoever the Sign may appear</l>
+               <l>Of the <hi>Guilded three Tuns,</hi> yet we found it as clear;</l>
+               <l>Bad <hi>Wine</hi> in fine Hogſhheads, as often may lurch,</l>
+               <l>As a falſified Faith in a fine painted Church.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>To the <hi>Ship</hi> then we ſteer'd with a ſteddy brisk Gale,</l>
+               <l>Where of good <hi>Old dry Claret</hi> we thought not to fail;</l>
+               <l>And I'faith Jolly <hi>Tom.</hi> to thy praiſe we muſt own,</l>
+               <l>Thou haſt it, if that there be any in Town;</l>
+               <l>For no Copy did nearer th' Original appear,</l>
+               <l>Than was like to <hi>Claret</hi> the <hi>Wine</hi> we drank there:</l>
+               <pb n="6" facs="tcp:47721:6"/>
+               <l>But Opinion and Fancy Rules all things below,</l>
+               <l>If we thought the <hi>Wine</hi> good, it was certainly ſo.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>The returns both of good and of evil Succeſs,</l>
+               <l>Make Life ſtill appear like a Game plaid at <hi>Cheſs:</hi>
+               </l>
+               <l>How well at <hi>Tom. F—ders</hi> we thought we were ſped,</l>
+               <l>Yet found we as meanly were us'd at <hi>Bull head.</hi>
+               </l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>How vainly ſo e're the <hi>Red-Lyon</hi> may crack,</l>
+               <l>Of the once mighty friendſhip he had with <hi>Puntack;</hi>
+               </l>
+               <l>Yet we found all his Favours were come to an end,</l>
+               <l>Since the Contracts he made with a <hi>Portugal</hi> Friend.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>At <hi>A—ys</hi> the <hi>Tip-cat</hi> who lives at <hi>Great James,</hi>
+               </l>
+               <l>Is a Tavern has always been in the extreams;</l>
+               <l>One while his <hi>Wine's</hi> poor, at another time rich,</l>
+               <l>Let my very good Reader go Taſt and try which.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>At the ſign of <hi>Old Beſs</hi> has no <hi>Parrot</hi> been ſeen</l>
+               <l>For this ſeveral Months, and <hi>ſo God ſave the Queen.</hi>
+               </l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Paſſing then through the <hi>Gate,</hi> we ſoon reacht the <hi>White-hart,</hi>
+               </l>
+               <l>Where there once liv'd a <hi>Landlord</hi> who never would ſtart</l>
+               <pb n="7" facs="tcp:47721:6"/>
+               <l>From his <hi>Bottle,</hi> but ſtill with the lateſt would ſtay,</l>
+               <l>And did ſometimes perform his three Stages a day;</l>
+               <l>But ſince <hi>H—lock</hi> is dead, and his head under-ground,</l>
+               <l>In his Vaults is a ſtrange lawleſs Government found;</l>
+               <l>Had he now been alive he'd have bluſht with diſgrace,</l>
+               <l>T'have ſeen his <hi>Wines</hi> pimpled as once was his Face.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>It was now near <hi>Exchange time,</hi> ſo poſting along</l>
+               <l>Through the Gate back again, when we came by the throng,</l>
+               <l>My freind would have had me to ſtept in at <hi>G—ys,</hi>
+               </l>
+               <l>But I told him I had an averſion to noiſe;</l>
+               <l>Why then (ſays he) we to the <hi>Angel and Crown,</hi>
+               </l>
+               <l>Juſt in <hi>Thred-needle</hi>-Street, for a while will ſit down.</l>
+               <l>But when I attempted to take in the Drench,</l>
+               <l>I perceiv'd that the <hi>Wine</hi> had forgot to ſpeak <hi>French.</hi>
+               </l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>At the <hi>Antwerp</hi> what ever is <hi>Eu—ter</hi>'s pretenſion,</l>
+               <l>His Tavern is famous for nothing but <hi>Gentian;</hi>
+               </l>
+               <l>What is one Mans delight is another Mans loathing,</l>
+               <l>So all Men are Famous for ſomething or nothing.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>Not the Houſes invented by <hi>Lilly</hi>'s and <hi>Coley</hi>'s,</l>
+               <l>Or the Pallace of <hi>Ovid</hi> he calls <hi>Regia Solis,</hi>
+               </l>
+               <l>Were Structures ſo noble, as if the new Dwelling</l>
+               <l>Of <hi>C—k</hi> at the <hi>Sun,</hi> who pretends to <hi>Wine</hi>-ſelling;</l>
+               <pb n="8" facs="tcp:47721:7"/>
+               <l>With him we'd have ſpoke, but were told by a Servant,</l>
+               <l>To a <hi>Horſe-race</hi> he went with a Zeal very Fervent;</l>
+               <l>We wiſht him good luck, but well knew by ſuch Courſes,</l>
+               <l>Some as well have run <hi>Tuns</hi> out of breath, as their <hi>Horſes.</hi>
+               </l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>At the <hi>VVidows</hi> we thought ſome old <hi>Claret</hi> t'have found,</l>
+               <l>But alas! we perceiv'd that the <hi>Ship</hi> was <hi>Wind-bound.</hi>
+               </l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>At <hi>B—y</hi>'s ſince <hi>Claret</hi>'s forgotten and gone,</l>
+               <l>They have loſt the beſt Ruby belong'd to the <hi>Crown.</hi>
+               </l>
+               <l>For <hi>Bl—ve</hi> his ſober good true Predeceſſor,</l>
+               <l>To the Intreſt of <hi>France</hi> was a Zealous Confeſſor;</l>
+               <l>And 'tis thought that the Clergy and Laity both,</l>
+               <l>At his Funeral Drank it all up by my troth.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>Croſſing <hi>Cornhill,</hi> we preſently took an occaſion,</l>
+               <l>To pay a ſhort Viſit at the Salutation;</l>
+               <l>But when we attempted to Taſt the French Wine,</l>
+               <l>We found 'twas meer <hi>Complement,</hi> juſt like the Sign.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>At the <hi>King</hi>'s-<hi>Arms,</hi> before the young Man took a Wife,</l>
+               <l>He had try'd ſeveral various conditions of Life;</l>
+               <l>But as <hi>D—den,</hi> in choice of Religions was curſt,</l>
+               <l>So he of Employments at laſt choſe the worſt.</l>
+            </lg>
+            <pb n="9" facs="tcp:47721:7"/>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>At <hi>Puntacks</hi> the famous French Ord'nary, where</l>
+               <l>Luxurious Eating is never thought dear,</l>
+               <l>We expected to meet with a Glaſs of that ſame</l>
+               <l>Wine, which properly carries the Maſters own Name;</l>
+               <l>But his Vaults could not lend us a drop of that Tipple,</l>
+               <l>So we wiſh him well— for a <hi>Crooked Diſciple.</hi>
+               </l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>To the <hi>Stocks-Market</hi> haſtning we ſtept to the <hi>Fountain,</hi>
+               </l>
+               <l>But in <hi>Aeſop</hi> we read of a Big-belly'd Mountain,</l>
+               <l>Who after ſtrong pangs at laſt brought forth a Mouſe,</l>
+               <l>Juſt ſo our Ambition was ſerv'd in the Houſe;</l>
+               <l>Yet we need not at laſt to have feard a Diſaſter,</l>
+               <l>Had the <hi>Claret</hi> been half but ſo good as its Maſter.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>To go to the <hi>Rummer</hi> my Friend was not willing,</l>
+               <l>Since for Dreſſing a <hi>Codſhead</hi> he pay'd <hi>Thirty Shilling.</hi>
+               </l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>To the Taverns in <hi>King ſtreet</hi> we'd ſmall Invitation,</l>
+               <l>For ſince late Elections are made reprobation,</l>
+               <l>Their Houſes have ſuffer'd a yearly Vacation.</l>
+            </lg>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>At the St. <hi>John</hi>'s <hi>Head</hi> when we obſerv'd the pale Sign,</l>
+               <l>We feard we ſhould find the ſame <hi>Symptoms</hi> in's Wine.</l>
+            </lg>
+            <pb n="10" facs="tcp:47721:8"/>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>To no Tavern in <hi>VVood-ſtreet</hi> my Friend would be led,</l>
+               <l>Not to <hi>Caſtle, Three-Tuns,</hi> nor to <hi>Jolly Bull head,</hi>
+               </l>
+               <l>Tho he feard no Arreſt, yet for Reaſons beſt known</l>
+               <l>To himſelf, he reſolv'd for to enter in none.</l>
+            </lg>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>Through Allies and Lanes we in ſmall time Arriv'd,</l>
+               <l>To the <hi>Dog full of ſpots</hi> where night Walkers are—</l>
+               <l>
+                  <hi>By</hi> St. <hi>Patrick</hi> (ſays <hi>Symon) how has it been wi' thee?</hi>
+               </l>
+               <l>
+                  <hi>Dee'l tauke me now Joy, if I joy not to ſee thee.</hi>
+               </l>
+               <l>
+                  <hi>By my Shoul— of good VVine thou ſhalt have a brauve Glaſh,</hi>
+               </l>
+               <l>
+                  <hi>For by my Shoulvation thou haſt a ſweet Fauſh.</hi>
+               </l>
+               <l>We declin'd his <hi>Teague-cant,</hi> and to keep free from harms,</l>
+               <l>Left his Houſe, and directly went to the <hi>Queens-Arms.</hi>
+               </l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>But ſuch Thundring and Lightning we heard at the Bar,</l>
+               <l>That to ask there for Wine we thought fit to forbear,</l>
+               <l>So leaving the Noiſe of this furious <hi>Madam</hi>—</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>To the <hi>Caſtle</hi> croſt o're and inquir'd for <hi>Old Adam,</hi>
+               </l>
+               <l>But we found him diſorder'd upon his Sons Gaming,</l>
+               <l>For loſing a triffling Sum ſcarcely worth naming,</l>
+               <l>From which we concluded, 'twas not hard to gather,</l>
+               <l>That the Child was the true begot Son of the Father.</l>
+            </lg>
+            <pb n="11" facs="tcp:47721:8"/>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>Faith <hi>Sedg—k</hi> has ſet all his Trade an Example,</l>
+               <l>Scorning bad Wines to ſell, now's a <hi>Student i'th' Temple;</hi>
+               </l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>For old <hi>Claret</hi> in vain we ſhould ask at the <hi>Sun,</hi>
+               </l>
+               <l>If <hi>Mat. F— r</hi>'s quite dry, ſure his man can have none.</l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>At the Widows of Ditto we were ſure to fall ſhort,</l>
+               <l>For her <hi>three Tuns</hi> have long ſince bled the laſt Quart.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>'Mongſt <hi>Mercers</hi> and <hi>Lacemen</hi> of mighty Renown,</l>
+               <l>To Jolly <hi>Tom. Th—ds</hi> at the ſign of the Crown,</l>
+               <l>We advanc'd, and to ſpeak with the Maſter deſir'd;</l>
+               <l>But whether with Wine or with Truth was inſpir'd:</l>
+               <l>Look you (ſays the young <hi>Bacchus</hi>) I've not <hi>Claret</hi> a drop,</l>
+               <l>When my Wife lay in laſt, the <hi>Rogues</hi> drank it all up.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>At the <hi>Dog</hi> juſt by <hi>Newgate, (a hopeful New-Colledg,)</hi>
+               </l>
+               <l>We askt, but old <hi>Claret</hi> was quite out of Knowledg.</l>
+            </lg>
+            <pb n="12" facs="tcp:47721:9"/>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>The <hi>Fountain</hi> through <hi>Newgate</hi> expects ſome new comer,</l>
+               <l>For now 'tis as dry as the Deſarts in Summer.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>At the Taverns in <hi>Smithfield</hi> we were ſure to deſpair,</l>
+               <l>For both good and bad 's drank in time of the <hi>Fair,</hi>
+               </l>
+               <l>When each Houſe is a <hi>Brothel,</hi> and delicate work,</l>
+               <l>Is produc'd by bad <hi>VVine, Cully, Punk, Pig</hi> and <hi>Pork.</hi>
+               </l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>On <hi>Snow Hill</hi> at the <hi>Caſtle,</hi> two Fellows in <hi>Halters,</hi>
+               </l>
+               <l>Juſt going to <hi>Tyburn,</hi> and reading their <hi>Pſalters,</hi>
+               </l>
+               <l>Made the Cart ſtop, and Drank off a Pint of <hi>Canary,</hi>
+               </l>
+               <l>To attend their ſad Fate with a Countenance Merry.</l>
+               <l>To find no <hi>Claret</hi> there, tho we had a ſuſpicion,</l>
+               <l>Yet declin'd we to enter, by odd ſuperſtition,</l>
+               <l>That if we drank there, it would follow of courſe,</l>
+               <l>That in a few Seſſions their Turn would be ours.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>At the <hi>Bull-head</hi> we lookt, and were told that the Maſter,</l>
+               <l>'Cauſe Trading was low, and no other diſaſter,</l>
+               <l>Did modeſtly keeping a <hi>Tavern</hi> decline,</l>
+               <l>Thinking 't better to Deal in good <hi>Cyder</hi> than <hi>Wine.</hi>
+               </l>
+            </lg>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>At the <hi>Three Tuns,</hi> in his Kitchin we found Mr. <hi>W—dron,</hi>
+               </l>
+               <l>Complaining that Coals were to dear by the Chaldron,</l>
+               <pb n="13" facs="tcp:47721:9"/>
+               <l>We told him our buſineſs, he bid us be quiet,</l>
+               <l>For if he had <hi>Claret</hi> he would not deny it.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>At Tavern with Sign of the <hi>Angel and Mary,</hi>
+               </l>
+               <l>Good <hi>Claret</hi> expected, but found the contrary;</l>
+               <l>But at our ill Fortune forgot to repine,</l>
+               <l>Since the Maſter knew <hi>Oyl</hi> far better than <hi>Wine.</hi>
+               </l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>Poor <hi>Jockey,</hi> what made thee to run ſuch a Courſe,</l>
+               <l>To break both thy <hi>Back,</hi> and the <hi>Back</hi> of the Horſe?</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>At the <hi>Devil,</hi> however his brags may be many,</l>
+               <l>Dee'l take make me if <hi>Claret</hi> we there could find any;</l>
+               <l>For tho to his Trade to ſell Tuns he pretends,</l>
+               <l>Yet he had not a Bottle to pleaſure his Friends.</l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>At the Globe in the middle of a <hi>Garden</hi> call'd <hi>Hatten,</hi>
+               </l>
+               <l>
+                  <hi>Fe—ld</hi> has for a long time himſelf learnt to Fatten;</l>
+               <l>Yet now a Dejection appears in his Face,</l>
+               <l>Since the <hi>Sherif</hi>'s <hi>Court</hi> is remov'd to another new place.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Like a <hi>Cardinals Pallace</hi> did <hi>Ha—nds</hi> appear,</l>
+               <l>And by the <hi>Croſs-Keys</hi> thought the <hi>Pope</hi> might live there;</l>
+               <pb n="14" facs="tcp:47721:10"/>
+               <l>But we found that how e're to <hi>French</hi> Intreſt inclin'd,</l>
+               <l>To the Faction of <hi>Spain</hi> he would not be unkind;</l>
+               <l>For he Swears that of <hi>Claret</hi> he'll not ſell a Drop,</l>
+               <l>Till the Union's concerted 'twixt <hi>Lewis</hi> and <hi>Pope.</hi>
+               </l>
+            </lg>
+            <lg n="52">
+               <head>LII.</head>
+               <l>Through an Entry as dark as is fancied by Story,</l>
+               <l>By which Souls to be ſtew'd paſs into <hi>Purgatory.</hi>
+               </l>
+               <l>At the <hi>Caſtle</hi> we entred to ſee our Friend <hi>Bee—ly:</hi>
+               </l>
+               <l>Ah! could we have found out his <hi>Claret</hi> as eaſily;</l>
+               <l>But at Taſting we found that the <hi>Wine</hi> was but ſo, ſo,</l>
+               <l>Unfit for the Palate of a nice <hi>Virtuoſo.</hi>
+               </l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>To the <hi>Globe</hi> then advancing, near <hi>Furnivals-Inn,</hi>
+               </l>
+               <l>At the Bar we demanded if <hi>Free—</hi> were within;</l>
+               <l>We were ſure by his abſence, to miſs our deſign,</l>
+               <l>If the Drawer's my Friend, ſo be ſure is my Wine.</l>
+            </lg>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>At the Door of the <hi>Sun,</hi> we there askt Mrs. <hi>Roſe,</hi>
+               </l>
+               <l>If ſome good <hi>Claret</hi> there we to find might ſuppoſe;</l>
+               <l>But ſhe told us, tho <hi>Oyſters</hi> and <hi>Claret</hi> might chime,</l>
+               <l>Yet their goodneſs and price rais'd and fell at one time.</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>At the <hi>Three-Tuns,</hi> whereof <hi>Iſaac Cl—k</hi> is the Maſter,</l>
+               <l>Who lately had like by Informers been caſt Sir;</l>
+               <l>When of him we did Bottles of <hi>Claret</hi> deſire,</l>
+               <l>He return'd, <hi>No, No, No, the Burnt Child dreads the Fire.</hi>
+               </l>
+            </lg>
+            <pb n="15" facs="tcp:47721:10"/>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>At <hi>Old</hi> Harry's <hi>great Head</hi> we obſerv'd ſuch Diſtraction,</l>
+               <l>The Maſter was in by a new ſetled <hi>Auction</hi>
+               </l>
+               <l>Was there, that by ſeveral words he did uſe,</l>
+               <l>We thought it moſt ſafe to be out of the Houſe.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>If all be not lyes which <hi>Philoſophers</hi> tell us,</l>
+               <l>(For Hiſtory paints 'em as honeſt brave fellows)</l>
+               <l>That in all kind of Species there's not ſuch a Creature,</l>
+               <l>As <hi>Griffin</hi> e're yet was produc'd by <hi>Old Nature:</hi>
+               </l>
+               <l>So the Maſter aſſures, who lives at that <hi>Sign,</hi>
+               </l>
+               <l>He believes that in <hi>London</hi> there's no <hi>Claret-Wine.</hi>
+               </l>
+            </lg>
+            <lg n="58">
+               <head>LVIII.</head>
+               <l>When we entred the <hi>Sun,</hi> and ſaw one tamely ſtand,</l>
+               <l>With his Hat on his Head, and a Bottle in's Hand;</l>
+               <l>With a Paſſive Obedience endure all the Scolding</l>
+               <l>Of a VVoman at Bar, who was loudly forth-holding,</l>
+               <l>VVith <hi>Sirrah,</hi> you <hi>Raskal, I'le thump your old Noddle:</hi>
+               </l>
+               <l>
+                  <hi>You, I'le warrant below by your ſelf drank your Bottle;</hi>
+               </l>
+               <l>VVent forth, and believ'd a kind Wife was all Riches,</l>
+               <l>But <hi>Heaven</hi> defend us from one wears the Breeches.</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>Thinking all other Taverns were much of the kind,</l>
+               <l>VVhich in <hi>Holbourn</hi> we ſo very lately did find.</l>
+               <pb n="16" facs="tcp:47721:11"/>
+               <l>Croſſing <hi>Lincolns-Inn Fields,</hi> and paſſing by all</l>
+               <l>The Retailers of <hi>Wine,</hi> at the <hi>Roſe</hi> we firſt call,</l>
+               <l>Where the <hi>Beau</hi>'s and the <hi>Sparks</hi> with their Miſtreſſes Feaſt,</l>
+               <l>Laugh at at all ſober Senſe, and think Life but a Jeſt:</l>
+               <l>They had <hi>Burgundy-Wine,</hi> but no <hi>Claret</hi> at all;</l>
+               <l>So there our pretences were quickly let fall.</l>
+            </lg>
+            <lg n="60">
+               <head>LX.</head>
+               <l>Croſſing o're <hi>Covent Garden,</hi> we came to <hi>J. An—lls,</hi>
+               </l>
+               <l>VVho pretends to have <hi>Wines</hi> full as good as man can ſell;</l>
+               <l>But when he would ſhew us a Glaſs of his Fine,</l>
+               <l>VVe found his skill lay much more in <hi>VVomen</hi> than <hi>VVine.</hi>
+               </l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>Taking Coach, then we came to the <hi>Harrow and Bear,</hi>
+               </l>
+               <l>An Eating Houſe famous without <hi>Temple-Bar;</hi>
+               </l>
+               <l>VVhen for <hi>Claret</hi> we askt, were told they had none,</l>
+               <l>But of <hi>Florence</hi> we might have <hi>Half-Flask</hi> for <hi>Half-Crown.</hi>
+               </l>
+               <l>My Friend was ſo Mad with ſo lewd a Demand,</l>
+               <l>That had I not timely prevented his Hand,</l>
+               <l>Their Bar had a much greater ſufferer been,</l>
+               <l>Than the Bar in the Play, call'd the <hi>Scowerers,</hi> was ſeen.</l>
+            </lg>
+            <lg n="62">
+               <head>LXII.</head>
+               <l>Through <hi>Temple-Bar</hi> paſſing to <hi>Chancery Lane,</hi>
+               </l>
+               <l>(VVhere Clients with Bills and with Anſwers are ſlain)</l>
+               <l>VVe found the <hi>Old Pope</hi> grown decrepid and ſtale;</l>
+               <l>VVas now pleas'd to ſell <hi>Darby</hi> and <hi>Nottingham-Ale.</hi>
+               </l>
+               <l>VVe both laught at the <hi>Label</hi> affixt to the Sign,</l>
+               <l>And ſuppos'd that their Ale was ſuch ſtuff as their <hi>Wine.</hi>
+               </l>
+            </lg>
+            <pb n="17" facs="tcp:47721:11"/>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>To the <hi>Commons</hi> then haſtning, where Sober <hi>Civilians</hi>
+               </l>
+               <l>Hear Cauſes between <hi>Cuckolds, Bauds, Whores</hi> and <hi>Villains.</hi>
+               </l>
+               <l>To the <hi>Feathers</hi> firſt went, and deſir'd Mr. <hi>Sh—w</hi>
+               </l>
+               <l>To let's have a <hi>Bottle,</hi> and wink at the Law:</l>
+               <l>He ſmil'd, and reply'd, yes, yes, Gentlemen once,</l>
+               <l>Good <hi>Claret</hi> I had, and to ſell't made <hi>no Bones;</hi>
+               </l>
+               <l>But ſince I ſhook hands with my <hi>Wine Coopers</hi> Trade,</l>
+               <l>That Plaguy VVhore <hi>Fortune</hi> has prov'd but a Jade.</l>
+            </lg>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>At the <hi>Caſtle,</hi> when coming in ſight of the Bar,</l>
+               <l>
+                  <hi>S—mth</hi> gave us his VVelcome with ſuch a fine Air;</l>
+               <l>So well skill'd in Language is the ſly <hi>Dott'rell,</hi>
+               </l>
+               <l>As if he deſign'd for a ſecond Sir. <hi>C—rell.</hi>
+               </l>
+               <l>To Splutter out <hi>Spaniſh, French, Dutch,</hi> can't forbear it,</l>
+               <l>And alike underſtands 'em, as much as his <hi>Claret.</hi>
+               </l>
+               <l>And o're the Frail Sex has ſuch an abſolute ſway,</l>
+               <l>That his Servants can hardly be ſent Maids away;</l>
+               <l>Beſides, ſhould the Trade of the <hi>Vintners</hi> fail,</l>
+               <l>He has got a moſt Modern Receipt for Broom-Ale;</l>
+               <l>Nay, before he'l be guilty of Poverties Crime,</l>
+               <l>VVill Let out's Sweating Cloſet for twelve Pence a time.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>To the <hi>Horn</hi> then we went, and inquir'd for the Maſter,</l>
+               <l>And askt him how's Trade went, ſince the <hi>Rocket Diſaſter,</hi>
+               </l>
+               <l>He reply'd for our Joke he would be in Arrear'a,</l>
+               <l>And askt if we'd drink any ſparkling <hi>Medera?</hi>
+               </l>
+               <pb n="18" facs="tcp:47721:12"/>
+               <l>VVe askt him what 'twas? He kindly then bid us</l>
+               <l>A VVelcome to's Celler, where once with <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>—</l>
+               <l>He Drank,—but <hi>Horns</hi> take me, if through the whole Cell,</l>
+               <l>VVe ſuch <hi>Claret</hi> could find to pleaſe Appetite well.</l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>VVhen to <hi>King</hi>'s-<hi>Head</hi> we came, our Delight was not ſmall,</l>
+               <l>To ſee <hi>Poſture Betty</hi> out-do <hi>Poſture Mall.</hi>
+               </l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>At the <hi>Swan</hi> the fam'd Tavern for well Dreſs'd Fiſh Dinners.</l>
+               <l>VVe found the young Couple were early beginners:</l>
+               <l>Good Breeding in <hi>Vintners</hi> may coſt 'em but little;</l>
+               <l>Nay, 'faith 'tis the very chief String to their Fiddle.</l>
+               <l>For want of good Manners I challenge no Man,</l>
+               <l>But good <hi>Claret</hi> was ones underſtood in the <hi>Swan.</hi>
+               </l>
+            </lg>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>If we there could find none that would ſtick to our Ribs,</l>
+               <l>VVe ſhall paſs by your <hi>Feathers</hi> good dear Mr. <hi>G—bs.</hi>
+               </l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>In a ſtrait line to <hi>Garlick-Hill</hi> tending our way,</l>
+               <l>We reſolv'd at the <hi>Long-Dog</hi> to finiſh the Day;</l>
+               <l>But in vain we thought there to fulfil our deſire,</l>
+               <l>Not one <hi>Amorous Bottle</hi> to quench our new Fire</l>
+               <l>We could we find there, unleſs we our Faith would reſign</l>
+               <l>To ſome ſtrange Maſquerade and Sophiſticate <hi>Wine.</hi>
+               </l>
+               <pb n="19" facs="tcp:47721:12"/>
+               <l>Diſappointed on all ſides, my Friend to be civil,</l>
+               <l>(Having wiſht all the <hi>Vintners</hi> 'forenam'd at the <hi>Devil</hi>)</l>
+               <l>Would accept no denial, but haſtily trudging,</l>
+               <l>Near to <hi>Clerkenwell-Green,</hi> drag'd me on to his Lodging:</l>
+               <l>Juſt to which when arriv'd, and to make a concluſion,</l>
+               <l>To the <hi>Caſtle</hi> we went, but there was ſuch confuſion</l>
+               <l>Of Damning and Sinking, as if <hi>Captain T—d,</hi>
+               </l>
+               <l>For a Patent to Swear, to the <hi>Devil</hi> had Rode;</l>
+               <l>By which, as fixt Truth, we could ſoon underſtand,</l>
+               <l>That his Courage lay more in his Mouth than his Hand;</l>
+               <l>Beſides his <hi>thin VVines</hi> were as empty of Merit,</l>
+               <l>As the Captain of Courage, does want the true Spirit.</l>
+            </lg>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>To <hi>Jeruſalem John,</hi> tho the Sign we did well like,</l>
+               <l>VVhich may ſor'ts Antiquity paſs for a Relick.</l>
+               <l>VVe came, and found <hi>B—ts</hi> was by <hi>VVine</hi> grown Erratick;</l>
+               <l>VVhen for <hi>Claret</hi> we askt him, he cry'd out <hi>Veratick.</hi>
+               </l>
+               <l>Well my honeſt true Hearts, cries the poor Drunken <hi>Ninny,</hi>
+               </l>
+               <l>I am ev'ry time forc'd ſo to ſtruggle with <hi>Skinny:</hi>
+               </l>
+               <l>As I hope to be Sav'd, and to live from Care,</l>
+               <l>A <hi>Maiden-head</hi> every night falls to my ſhare.</l>
+               <l>What a Pox, ſays my Friend, can he mean by this Canting:</l>
+               <l>What care we for his <hi>VVife,</hi> when our <hi>Claret</hi> is wanting?</l>
+               <l>But we found that our <hi>Land-lord</hi> was deaf on that Ear,</l>
+               <l>And ſo juſt like <hi>Sabina,</hi> tho he heard, would not hear.</l>
+            </lg>
+            <lg>
+               <l>It was now very late, and we both of us thinking,</l>
+               <l>'Twas a breach in true Friendſhip to part without Drinking,</l>
+               <l>Got a Bottle or two of the Ale they call <hi>Darby,</hi>
+               </l>
+               <l>For it came from that place or the Devils Arſe hard-by,</l>
+               <l>Which refreſht our tir'd Senſes with generous Heat,</l>
+               <l>So we Lovingly parted as Friendly we met.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:47721:13"/>
+            <head>ADVERTISEMENTS.</head>
+            <list>
+               <item>The Folly of Love: Or, an Eſſay upon Satyr againſt VVo<g ref="char:EOLhyphen"/>men.</item>
+               <item>The Search after Claret; Or, a Viſitation of the Vintners. A Poem in two <hi>Canto's.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:47721:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
